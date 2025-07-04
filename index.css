@@ -1,4 +1,4 @@
-/* Reset default margins/padding */
+
 * {
   margin: 0;
   padding: 0;
@@ -20,7 +20,7 @@ body {
   gap: 1.5rem;
 }
 
-/* Form styling */
+
 form {
   display: flex;
   gap: 1rem;
@@ -49,12 +49,12 @@ button:hover {
   background-color: #555;
 }
 
-/* Control buttons */
+
 div > button + button {
   margin-left: 1rem;
 }
 
-/* Display containers */
+
 .list-container {
   display: flex;
   gap: 1rem;
